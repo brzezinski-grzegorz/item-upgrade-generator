@@ -5,9 +5,9 @@ This is a simple tool for Knight Online v1298 server admins, that allows quickly
 
 ## Screenshots
 
-![App Screenshot](https://ko4life.net/uploads/monthly_2020_04/1865344740_Item0.png.7f9676eeb374e8322f6098877ca9794e.png)
-![App Screenshot](https://ko4life.net/uploads/monthly_2020_04/521803348_Item1.thumb.png.76816bf1196005b0e9467b54e675a42b.png)
-![App Screenshot](https://ko4life.net/uploads/monthly_2020_04/2126444447_Item2.png.807d2411baa5d84ed60c15d6b5895be3.png)
+![1](https://github.com/brzezinski-grzegorz/item-upgrade-generator/assets/63126985/f949dd66-fc60-4493-adfb-9f700dd7a8be)
+![2](https://github.com/brzezinski-grzegorz/item-upgrade-generator/assets/63126985/3c3712cd-bbaa-4dae-97c0-59d81092fcf7)
+![3](https://github.com/brzezinski-grzegorz/item-upgrade-generator/assets/63126985/d039b1c2-a794-4320-bd39-8a2ca7ef4c41)
 
 ## Deployment
 
