@@ -19,3 +19,10 @@ In Item Group there are pre-defined by me profiles that will put some of the val
 
 And last but not least there are two magic buttons - also pretty self explanatory. The first one save the query to ITEM_UPGRADE table and closes the application, another creates *.sql script in the application directory.
 
+## Additional Information
+
+For this editor to work you actually need to have odbc connection setup to MSSQL server. If you need any information on how to setup server and connection please refer to link below:
+
+```bash
+  https://ko4life.net/topic/1130-basic-ko-server-setup-guide/
+```
